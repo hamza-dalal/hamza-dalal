@@ -1,0 +1,23 @@
+#include<math.h>
+#include<conio.h>
+#include<stdio.h>
+int i;
+main()
+{
+	system("cls");
+	printf("i=%d\n",i);
+	fun1();
+	fun1();
+	fun2();
+	fun2();
+}
+fun1()
+{
+	i=i+1;
+	printf("i=%d\n",i);
+}
+fun2()
+{
+	i=i-1;
+	printf("i=%d\n",i);
+}
