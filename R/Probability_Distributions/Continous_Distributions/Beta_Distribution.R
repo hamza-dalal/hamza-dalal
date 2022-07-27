@@ -1,7 +1,7 @@
 # Beta Distribution
 
 # Probability Distribution
-x <- dbeta(seq(0, 1, by = 0.1), shape1 = 2, shape2 = 5); x
+x <- dbeta(0.2, shape1 = 2, shape2 = 5); x
 plot(x)
 
 # Cumulative Distribution
