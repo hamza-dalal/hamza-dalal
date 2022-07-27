@@ -1,4 +1,4 @@
-# Chi Square Distribution
+# t Distribution
 
 # Probability Distribution
 x <- dt(-5:10, df = 2); x
