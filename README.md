@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-#### Here are all my works and learning in programming.
+#### Here are all my works,references, and learning in programming.
 
